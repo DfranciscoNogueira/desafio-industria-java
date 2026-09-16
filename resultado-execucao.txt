@@ -1,0 +1,82 @@
+
+============================================================
+3.3 - Funcionarios
+============================================================
+Nome: Maria    | Nascimento: 18/10/2000 | Salario:     2.009,44 | Função: Operador
+Nome: Caio     | Nascimento: 02/05/1961 | Salario:     9.836,14 | Função: Coordenador
+Nome: Miguel   | Nascimento: 14/10/1988 | Salario:    19.119,88 | Função: Diretor
+Nome: Alice    | Nascimento: 05/01/1995 | Salario:     2.234,68 | Função: Recepcionista
+Nome: Heitor   | Nascimento: 19/11/1999 | Salario:     1.582,72 | Função: Operador
+Nome: Arthur   | Nascimento: 31/03/1993 | Salario:     4.071,84 | Função: Contador
+Nome: Laura    | Nascimento: 08/07/1994 | Salario:     3.017,45 | Função: Gerente
+Nome: Heloisa  | Nascimento: 24/05/2003 | Salario:     1.606,85 | Função: Eletricista
+Nome: Helena   | Nascimento: 02/09/1996 | Salario:     2.799,93 | Função: Gerente
+
+============================================================
+3.6 - Funcionarios agrupados por função
+============================================================
+
+Operador:
+Nome: Maria    | Nascimento: 18/10/2000 | Salario:     2.210,38 | Função: Operador
+Nome: Heitor   | Nascimento: 19/11/1999 | Salario:     1.740,99 | Função: Operador
+
+Coordenador:
+Nome: Caio     | Nascimento: 02/05/1961 | Salario:    10.819,75 | Função: Coordenador
+
+Diretor:
+Nome: Miguel   | Nascimento: 14/10/1988 | Salario:    21.031,87 | Função: Diretor
+
+Recepcionista:
+Nome: Alice    | Nascimento: 05/01/1995 | Salario:     2.458,15 | Função: Recepcionista
+
+Contador:
+Nome: Arthur   | Nascimento: 31/03/1993 | Salario:     4.479,02 | Função: Contador
+
+Gerente:
+Nome: Laura    | Nascimento: 08/07/1994 | Salario:     3.319,20 | Função: Gerente
+Nome: Helena   | Nascimento: 02/09/1996 | Salario:     3.079,92 | Função: Gerente
+
+Eletricista:
+Nome: Heloisa  | Nascimento: 24/05/2003 | Salario:     1.767,54 | Função: Eletricista
+
+============================================================
+3.8 - Aniversariantes dos meses 10 e 12
+============================================================
+Nome: Maria    | Nascimento: 18/10/2000 | Salario:     2.210,38 | Função: Operador
+Nome: Miguel   | Nascimento: 14/10/1988 | Salario:    21.031,87 | Função: Diretor
+
+============================================================
+3.9 - Funcionario com maior idade
+============================================================
+Nome: Caio | Idade: 65 anos
+
+============================================================
+3.10 - Funcionarios em ordem alfabetica
+============================================================
+Alice
+Arthur
+Caio
+Heitor
+Helena
+Heloisa
+Laura
+Maria
+Miguel
+
+============================================================
+3.11 - Total dos salarios
+============================================================
+R$ 50.906,82
+
+============================================================
+3.12 - Quantidade de salarios minimos
+============================================================
+Maria: 1,82 salarios minimos
+Caio: 8,93 salarios minimos
+Miguel: 17,35 salarios minimos
+Alice: 2,03 salarios minimos
+Heitor: 1,44 salarios minimos
+Arthur: 3,70 salarios minimos
+Laura: 2,74 salarios minimos
+Heloisa: 1,46 salarios minimos
+Helena: 2,54 salarios minimos
